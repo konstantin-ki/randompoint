@@ -46,6 +46,18 @@ h1 {
  	margin-left: 140px;
 }
 
-.cl-div-signature {
+.cl-bt-stop {
+	margin-left: 10px;
+	font-family: Tahoma;
+	font-size: 13px;
+
+
 	float: left;
+}
+
+.cl-p-signature {
+	margin-left: 222px;
+	font-family: Tahoma;
+	font-size: 16px;
+
 }
