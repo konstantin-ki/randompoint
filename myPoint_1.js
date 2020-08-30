@@ -148,5 +148,5 @@ $(document).ready( ()=> {
 
                         }, 50);
 
-  $('#myIdForm1Button3').click( ()=>{offDraw(timerID);}) ;  
+  $('.cl-bt-stop').click( ()=>{offDraw(timerID);}) ;  
 }); 
